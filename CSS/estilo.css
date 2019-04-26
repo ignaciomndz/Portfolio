@@ -136,7 +136,7 @@ body {
 main {
 	min-width: 20em;
   max-width: 75em;
-	background: white;
+	background: red;
 	margin: auto;
 }
 
@@ -166,7 +166,7 @@ nav ul li a {
 }
 #menu a {
   text-decoration: none;
-	background-color: rgba(200,200,200,0);
+	background-color: rgba(200,0,0,0);
 }
 #menu a:hover {
 	width: 1.875em;
