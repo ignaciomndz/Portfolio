@@ -248,7 +248,7 @@ nav ul li a {
 /* Media query iPod touch */
 @media (min-width: 20em) {
 	body {
-	    font: normal 80% Helvetica, Arial, sans-serif;
+	    font: normal 100% Helvetica, Arial, sans-serif;
 	}
   main {
     width: 93.125vw;
