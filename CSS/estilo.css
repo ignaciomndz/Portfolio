@@ -182,7 +182,7 @@ nav ul li a {
 }
 .fajaD {
 	width: 50%;
-	height: 1.875em;
+	height: 2.125em;
 	background-color: rgba(200,0,0,.8);
 	margin-left: 50%;
 	position: absolute;
@@ -248,7 +248,7 @@ nav ul li a {
 /* Media query iPod touch */
 @media (min-width: 20em) {
 	body {
-	    font: normal 100% Helvetica, Arial, sans-serif;
+	    font: normal 80% Helvetica, Arial, sans-serif;
 	}
   main {
     width: 93.125vw;
@@ -309,7 +309,7 @@ nav ul li a {
 /* Media query iPad */
 @media (min-width: 48em) {
 	body {
-	    font: normal 120% Helvetica, Arial, sans-serif;
+	    font: normal 95% Helvetica, Arial, sans-serif;
 	}
   main {
     width: 95.572vw;
