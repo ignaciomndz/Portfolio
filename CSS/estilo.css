@@ -309,7 +309,7 @@ nav ul li a {
 /* Media query iPad */
 @media (min-width: 48em) {
 	body {
-	    font: normal 1000% Helvetica, Arial, sans-serif;
+	    font: normal 120% Helvetica, Arial, sans-serif;
 	}
   main {
     width: 95.572vw;
@@ -392,7 +392,7 @@ nav ul li a {
 /* Media query iMac */
 @media (min-width: 68.75em) {
 	body {
-			font: normal 95% Helvetica, Arial, sans-serif;
+			font: normal 140% Helvetica, Arial, sans-serif;
 	}
 	main {
     width: 92vw;
