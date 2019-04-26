@@ -309,7 +309,7 @@ nav ul li a {
 /* Media query iPad */
 @media (min-width: 48em) {
 	body {
-	    font: normal 100% Helvetica, Arial, sans-serif;
+	    font: normal 1000% Helvetica, Arial, sans-serif;
 	}
   main {
     width: 95.572vw;
