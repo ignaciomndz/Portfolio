@@ -156,12 +156,12 @@ nav ul {
 	top: 29.75em;
 }
 nav ul li {
-  height: 1.25em;
+  height: 1.5em;
   padding: 0.3125em 0.625em;
 }
 nav ul li a {
 	font-family: 'PT Serif', serif;
-	font-size: 0.875em;
+	font-size: 1.125em;
 	color: white;
 }
 #menu a {
